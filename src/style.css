@@ -1,0 +1,355 @@
+.body {
+    width: 100%;
+    background-color: none;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    background-color: #fff;
+    
+}
+
+
+header .logo {
+    width: 50px;
+    height: 50px;
+    background-color: #ff9800;
+    border-radius: 50%;
+    margin-top: -250px;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    margin: 0;
+    padding: 0;
+    margin-right: 350px;
+    margin-top: -172px;
+    padding-left: 100px;
+    gap: 70px;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.participate {
+    text-decoration: none;
+    color: black;
+    font: bold;
+    padding: 10px 20px;
+    border-radius: 25px;
+    background-color: white;
+    margin-left: 60px;
+}
+.name {
+    margin-top: 25px;
+}
+
+.hero-image img {
+    width: 300px;
+    transform: rotate(-10deg);
+    padding-bottom: 50px;
+    margin-top: -332px;
+}
+
+.mango4 img {
+    width: 200px;
+    transform: rotate(5deg);
+}
+
+.mango4 {
+    margin-top: 180px;
+    margin-left: -22px;
+
+}
+
+.hero-image {
+    margin-top: 53px;
+}
+
+.img {
+    width: 50px;
+    height: 50px;
+    transform: rotate(20deg);
+    margin-top: -170px;
+    margin-left: -5px;
+}
+
+.img img {
+    width: 100px;
+}
+
+.slice {
+    margin-top: -153px;
+    transform: rotate(-280deg);
+    margin-left: 140px;
+
+}
+
+.slice img {
+    width: 150px;
+}
+
+.participate-btn {
+    text-decoration: none;
+    color: black;
+    font: bold;
+    padding: 10px 20px;
+    border-radius: 25px;
+    background-color: #ff9800;
+    
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    background-color: none;
+    background-size: cover;
+    margin-top: -300px;
+}
+
+
+
+.hero-text h3 b{
+    color: #ff9800;
+}
+.hero-text{
+    width: 300px;
+    padding-bottom: 120px;
+    padding-left: 65px;
+}
+.explore-btn {
+    margin-left: 120px;
+    padding: 10px 20px;
+    color: #333;
+    text-decoration: none;
+    border:none;
+    font-weight: bold;
+    background-color: #fff;
+}
+
+.explori {
+    margin-top: -45px;
+}
+
+.parti {
+    margin-top: 80px;
+    margin-left: -4px;
+}
+.image{
+    background-color: orange;
+    padding-bottom: 40px;
+    border-radius: 15% 10% 0% 76% / 20% 0% 10% 59% ;
+    height: 350px;
+    width: 350px;
+}
+
+.how-to-participate {
+    padding: 50px;
+    text-align: center;
+}
+
+.how-to-participate h2 {
+    color: #ff9800;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.how-to-participate h2 b {
+    color: black;
+}
+
+.how-to-participate .flower{
+    margin-right: 570px;
+    margin-top: -34px;
+    transform: rotate(160deg);
+}
+
+.how-to-participate .flower img{
+    width: 50px;
+}
+
+.steps {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.step img {
+    width: 65px;
+    height: 65px;
+    margin-bottom: 10px;
+    
+}
+
+.step .top {
+    width: 25px;
+    height: 22px;
+    background-color: #ff9800;
+    border-radius: 50%;
+    margin-left: 25px;
+}
+
+.step p {
+    font-size: 16px;
+    color: #333;
+}
+
+.slice2{
+    float: right;
+    margin-top: -83px;
+    margin-left: -55px;
+    transform: rotate(-10deg);
+}
+.slice2 img {
+    width: 100px;
+}
+.logo2 {
+    width: 600px;
+    height: 300px;
+    background-color: #ff9800;
+    border-radius: 25px;
+    margin-left: 290px;
+    margin-top: 20px;
+}
+
+.img2 {
+    margin-top: -110px;
+    margin-right: 620px;
+    transform: rotate(100deg);
+}
+
+.img2 img {
+    width: 110px;
+}
+.flower1 {
+    margin-top: -58px;
+    margin-left: 508px;
+    transform: rotate(155deg);
+}
+
+.flower1 img {
+    width: 50px;
+    filter: invert(100%) sepia(0%) saturate(7500%) hue-rotate(112deg) brightness(120%) contrast(114%);
+}
+
+.dice {
+    margin-left: 110px;
+    margin-top: 300px;
+    transform: rotate(45deg);
+
+}
+
+.dice img {
+    width: 200px;
+}
+.bila{
+    margin-left: 460px;
+    margin-top: -540px;
+}
+
+.luck {
+    color: #ff9800;
+    text-decoration: underline;
+}
+
+.flower2 {
+    margin-right: 330px;
+    margin-top: 60px;
+    transform: rotate(150deg);
+
+}
+
+.flower2 img {
+    width: 100px;
+}
+
+.color {
+    width: 650px;
+    height: 80px;
+    background-color: #ff9800;
+    border-radius: 25px;
+    margin-left: 270px;
+    margin-top: 20px;
+}
+
+.para {
+     margin-left: 50px;
+     padding-top: 1px;
+     color: black;
+}
+
+.signup {
+    margin-left: 500px;
+     margin-top: -53px;
+}
+
+.signup-btn {
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+    width: 100px;
+    height: 30px;
+    padding-top: 3px;
+}
+
+.last {
+   margin-top: -100px;
+   margin-left: 35px;   
+}
+.mango3 {
+    margin-left: 845px;
+    margin-top: -60px;
+}
+
+.mango3 img {
+    width: 100px;
+}
+
+.border1 {
+    margin-left: 800px;
+    margin-top: 70px;
+    color: #ff9800;
+}
+
+.border2 {
+    margin-left: 345px;
+    margin-top: -37px;
+    color: #ff9800;
+} 
+
+button, .participate, .participate-btn, .explore-btn, .signup-btn, .luck {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transform: scale(1);
+}
+
+
+button:hover, .participate:hover, .participate-btn:hover, .explore-btn:hover, .signup-btn:hover, .luck:hover {
+    transform: scale(1.1); 
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); 
+}
+
+
+button:focus, .participate:focus, .participate-btn:focus, .explore-btn:focus, .signup-btn:focus, .luck:focus {
+    outline: none;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+
+
+  
+  
+  
+
